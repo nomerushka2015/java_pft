@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.taobao.gecko:gecko:1.1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.gecko/gecko/1.1.4/5ae31a3c43cab755fd4977e7a58aad18442dfd1f/gecko-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.gecko/gecko/1.1.4/bbde9e3a9eb33f862ff66b3a8bc6937359cb3402/gecko-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
